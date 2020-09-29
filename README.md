@@ -5,8 +5,11 @@ There are a number of factors which determine property prices, some are logical,
 
 #### Evaluation Parameters 
 Evaluation is based on: 
+
 •	Data Preprocessing 
+
 •	Model Comparison 
+
 •	Model Selection 
 
 #### Data Preprocessing 
